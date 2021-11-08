@@ -4,8 +4,8 @@
 #include <time.h>
 #include <math.h>
 
-#define SIZE 1000
-#define BS 2
+#define SIZE 1600
+#define BS 64
 
 double A[SIZE * SIZE], B[SIZE * SIZE], C[SIZE * SIZE];
 
